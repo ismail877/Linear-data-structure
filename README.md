@@ -19,5 +19,4 @@ As part of a programming course, I developed a project that demonstrated the imp
 #GUI design and implementation using Java Swing
 #Event handling and user input validation
 
-
-Overall, the project was a valuable learning experience that strengthened my programming skills and provided hands-on experience with various linear data structures and their implementation using Java Swing. The project also allowed me to gain experience in GUI design and event handling, which are important skills in developing user-friendly applications.
+**Overall, the project was a valuable learning experience that strengthened my programming skills and provided hands-on experience with various linear data structures and their implementation using Java Swing. The project also allowed me to gain experience in GUI design and event handling, which are important skills in developing user-friendly applications.**
